@@ -1,9 +1,9 @@
 ### Hello!! 👋
 
-**I am NielsDevelopus** and I am currently not active uploading software to Github.
+**I am Nelisdevelopus** and I am currently not active uploading software to Github.
 
 <!--
-**NielsDevelopus/nielsdevelopus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nelisdevelopus/nelisdevelopus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
